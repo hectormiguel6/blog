@@ -1,0 +1,9 @@
+# Tests
+mock
+pytest
+
+# Optional Packages
+Markdown >= 3.1
+BeautifulSoup4
+lxml
+typogrify
